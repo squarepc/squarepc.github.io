@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+}
+
+.main_img{
+    display:block;
+    text-align: center;
+}
+
+.mainimg{
+    max-width: 650px;
+}  
+
+.menu{
+
+    font-family: 'Gothic A1', sans-serif;
+    font-weight: 600;
+    font-size: 125%;
+    word-spacing: 5rem;
+    vertical-align: middle;
+
+    text-align: center;
+    background-color:white;
+    color:black;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+.hr1{
+    border: 0;
+    height: 0rem;
+    background: white;
+}
+
+.hr2{
+    border: 0;
+    height: 0.1rem;
+    background: black;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    /* width 100% */
+    left: 0;
+    right: 0;
+}
+
+.recommend{
+    max-width: 2rem;  
+    width: auto;
+}
+
+.time{
+    max-width: 2rem;  
+    width: auto;
+}
+
+.month{
+    max-width: 2.5rem;  
+    width: auto;
+}
+
+.online{
+    max-width: 2.5rem;  
+    width: auto;
+}
+
+d{
+    font-family: 'Gothic A1', sans-serif;
+    font-size: 175%;
+    display: block;
+    text-align: center;
+
+    font-weight: 700;
+    color: rgb(100, 50, 255);
+
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.bot{
+    margin-bottom: 45em;
+}
+
+.saup{
+    font-family: 'Gothic A1', sans-serif;
+    font-size: 30%;
+    display: block;
+    text-align: center;
+    width: 80%;
+    max-width: 100-px;
+    margin: auto;
+    text-align: left;
+
+    font-weight: 300;
+
+}
+
+.saupout{
+    background-color: rgb(230, 230, 230);
+    bottom: 0;
+
+}
+
+.brsaup{
+    margin-bottom: 30rem;
+}
+
+.saupimg{
+    float: left;
+}
+
+.tong{
+    background-color: white;
+    border: 01px solid gray;
+    font-size: 2px;
+    font-weight: 600;
+}
